@@ -1,4 +1,6 @@
 # StudentDatabase
+This Project is a Partial Fullfilment of Wipro Requirements for training completion
+
 Design a C++ base class consisting of the data members such as name of the student, roll number and subject. The derived class consists of the data  members subject code, internal assessment and university examination marks. Construct a virtual base class for the item name of the student and roll number.
 
 The program should have the facilities. 
